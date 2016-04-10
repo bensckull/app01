@@ -4,9 +4,12 @@ describe User do
 
   before do
     @user = User.new(name: "Example User", email: "user@example.com",
-                     password: "foobar", password_confirmation: "foobar")
+                     password: "foobar", password_confirmation: "foobar",
+                     date_naissance: "29-04-1994", nb_films: "2", 
+                     m_visio_films: "Ordinateur", nb_livres: "1",
+                    livres: "true", PDF_Cv: "" )
   end
-
+  
   subject { @user }
 
   it { should respond_to(:name) }
@@ -15,7 +18,12 @@ describe User do
   it { should respond_to(:password) }
   it { should respond_to(:password_confirmation) }
   it { should respond_to(:remember_token) }
-  it { should respond_to(:authenticate) }
+  it { should respond_to(:date_naissance) }
+  it { should respond_to(:nb_films) }
+  it { should respond_to(:m_visio_films) }
+  it { should respond_to(:nb_livres) }
+  it { should respond_to(:livres) }
+  it { should respond_to(:PDF_Cv) }
 
   it { should be_valid }
 

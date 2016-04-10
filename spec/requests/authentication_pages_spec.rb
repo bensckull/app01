@@ -4,24 +4,24 @@ describe "Authentication" do
 
   subject { page }
 
-  describe "signin page" do
+  describe "Page de Connection" do
     before { visit signin_path }
 
-    it { should have_content('Sign in') }
-    it { should have_title('Sign in') }
+    it { should have_content('Connexion') }
+    it { should have_title('Connexion') }
   end
 
   describe "signin" do
     before { visit signin_path }
 
     describe "with invalid information" do
-      before { click_button "Sign in" }
+      before { click_button "Connexion" }
 
-      it { should have_title('Sign in') }
+      it { should have_title('Connexion') }
       it { should have_selector('div.alert.alert-error') }
 
       describe "after visiting another page" do
-        before { click_link "Home" }
+        before { click_link "Accueil" }
         it { should_not have_selector('div.alert.alert-error') }
       end
     end
@@ -30,19 +30,19 @@ describe "Authentication" do
       let(:user) { FactoryGirl.create(:user) }
       before do
         fill_in "Email",    with: user.email.upcase
-        fill_in "Password", with: user.password
-        click_button "Sign in"
+        fill_in "Mot de Passe", with: user.password
+        click_button "Connexion"
       end
 
       it { should have_title(user.name) }
-      it { should have_link('Profile',     href: user_path(user)) }
-      it { should have_link('Settings',    href: edit_user_path(user)) }
-      it { should have_link('Sign out',    href: signout_path) }
-      it { should_not have_link('Sign in', href: signin_path) }
+      it { should have_link('Profil',     href: user_path(user)) }
+      it { should have_link('Paramètres',    href: edit_user_path(user)) }
+      it { should have_link('Déconexion',    href: signout_path) }
+      it { should_not have_link('Connexion', href: signin_path) }
 
       describe "followed by signout" do
-        before { click_link "Sign out" }
-        it { should have_link('Sign in') }
+        before { click_link "Déconexion" }
+        it { should have_link('Connexion') }
       end
     end
   end
@@ -52,16 +52,19 @@ describe "Authentication" do
     describe "for non-signed-in users" do
       let(:user) { FactoryGirl.create(:user) }
 
-      describe "in the Users controller" do
-
-        describe "visiting the edit page" do
-          before { visit edit_user_path(user) }
-          it { should have_title('Sign in') }
+      describe "when attempting to visit a protected page" do
+        before do
+          visit edit_user_path(user)
+          fill_in "Email",    with: user.email
+          fill_in "Mot de Passe", with: user.password
+          click_button "Connexion"
         end
 
-        describe "submitting to the update action" do
-          before { patch user_path(user) }
-          specify { expect(response).to redirect_to(signin_path) }
+        describe "after signing in" do
+
+          it "should render the desired protected page" do
+            expect(page).to have_title('Edition Utilisateur')
+          end
         end
       end
     end

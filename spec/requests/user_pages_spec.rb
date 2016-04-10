@@ -4,7 +4,7 @@ describe "User pages" do
 
   subject { page }
 
-  describe "profile page" do
+  describe "page de profile" do
     let(:user) { FactoryGirl.create(:user) }
     before { visit user_path(user) }
 
@@ -12,42 +12,44 @@ describe "User pages" do
     it { should have_title(user.name) }
   end
 
-    describe "signup page" do
+    describe "page d'inscription" do
     before { visit signup_path }
 
-    it { should have_content('Sign up') }
-    it { should have_title(full_title('Sign up')) }
+    it { should have_content('Inscription') }
+    it { should have_title(full_title('Inscription')) }
   end
 
-  describe "signup" do
+  describe "inscription" do
 
     before { visit signup_path }
 
     let(:submit) { "Création du compte" }
 
-    describe "with invalid information" do
-      it "should not create a user" do
+    describe "avec des information éronés" do
+      it "ne doit pas créer d'utilisateur" do
         expect { click_button submit }.not_to change(User, :count)
       end
     end
 
-    describe "with valid information" do
+    describe "avec des information valides" do
       before do
-        fill_in "Name",         with: "Example User"
-        fill_in "Email",        with: "user@example.com"
-        fill_in "Password",     with: "foobar"
-        fill_in "Confirmation", with: "foobar"
+        fill_in "Nom",                                            with: "Example User"
+        fill_in "Email",                                          with: "user@example.com"
+        fill_in "Mot de Passe",                                   with: "foobar"
+        fill_in "Confirmation",                                   with: "foobar"
+        fill_in "Nombre de films moyen vus par semaine :",        with: "2"
+        fill_in "Nombre de livres moyen Lu par semaine :",        with: "1"
       end
 
-      it "should create a user" do
+      it "devrait créer un utilisateur" do
         expect { click_button submit }.to change(User, :count).by(1)
       end
 
-      describe "after saving the user" do
+      describe "apres la sauvegarde de l'utilisateur" do
         before { click_button submit }
         let(:user) { User.find_by(email: 'user@example.com') }
 
-        it { should have_link('Sign out') }
+        it { should have_link('Déconexion') }
         it { should have_title(user.name) }
         it { should have_selector('div.alert.alert-success', text: 'Bienvenue') }
       end
@@ -62,25 +64,25 @@ describe "User pages" do
     end
 
     describe "page" do
-      it { should have_content("Update your profile") }
-      it { should have_title("Edit user") }
-      it { should have_link('change', href: 'http://gravatar.com/emails') }
+      it { should have_content("Modification du profile") }
+      it { should have_title("Edition Utilisateur") }
+      it { should have_link('changer', href: 'http://gravatar.com/emails') }
     end
 
-    describe "with valid information" do
+    describe "avec des informations éronés" do
       let(:new_name)  { "New Name" }
       let(:new_email) { "new@example.com" }
       before do
-        fill_in "Name",             with: new_name
+        fill_in "Nom",             with: new_name
         fill_in "Email",            with: new_email
-        fill_in "Password",         with: user.password
-        fill_in "Confirm Password", with: user.password
-        click_button "Save changes"
+        fill_in "Mot de Passe",         with: user.password
+        fill_in "Confirmation", with: user.password
+        click_button "Sauver"
       end
 
       it { should have_title(new_name) }
       it { should have_selector('div.alert.alert-success') }
-      it { should have_link('Sign out', href: signout_path) }
+      it { should have_link('Déconexion', href: signout_path) }
       specify { expect(user.reload.name).to  eq new_name }
       specify { expect(user.reload.email).to eq new_email }
     end
