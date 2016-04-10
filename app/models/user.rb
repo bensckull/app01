@@ -1,4 +1,7 @@
 class User < ActiveRecord::Base
+
+  #attr_accessible :name, :email, :date_naissance, :password, :nb_films, :m_visio_films, :nb_livres, :livres, :PDF_Cv
+
   before_save { self.email = email.downcase }
   before_create :create_remember_token
   
@@ -9,6 +12,26 @@ class User < ActiveRecord::Base
                     uniqueness: { case_sensitive: false }
   has_secure_password
   validates :password, length: { minimum: 6 }
+  
+  validates :date_naissance, 
+            :presence => true,
+            :date => { :before => Time.now }
+
+  validates :nb_films,
+            :presence => true, 
+            :numericality => { only_integer: true, 
+                               greater_than_or_equal_to: 0 }
+
+  validates :m_visio_films,
+            :presence => true
+
+  validates :nb_livres, 
+            :presence => true, 
+            :numericality => { only_integer: true,
+                               greater_than_or_equal_to: 0 }
+
+  validates_inclusion_of :livres,
+                         :in => [true, false]
 
 
   def User.new_remember_token

@@ -8,4 +8,28 @@
       </h1>
     </section>
   </aside>
+
+  <br>
+
+  <section>
+		<strong>Nom :</strong> <%= @user.name %>
+		<br>
+		<strong>Age :</strong> <%= @user.date_naissance %>
+		<br>
+		<strong>Mail :</strong> <%= @user.email %>
+		<br>
+        <strong>Nombre de films vus par semaine :</strong> <%= @user.nb_films %>
+        <br>
+        <strong>Moyen de visionnage préféré :</strong> <%= @user.m_visio_films %>
+        <br>
+        <strong>Nombre de livres par semaine :</strong> <%= @user.nb_livres %>
+        <br>
+        <strong>Aimerait lire plus de livres :</strong> <%= @user.livres %>
+        <br>
+
+        <% if(@user.PDF_Cv!=nil) %>
+            <strong>Cv :</strong>
+            <%= link_to "Télécharger", lien_cv_path(file_name: @user.PDF_Cv) %>
+        <% end %>
+   </section>
 </div>

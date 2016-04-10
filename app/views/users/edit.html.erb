@@ -12,13 +12,41 @@
       <%= f.label :email %>
       <%= f.text_field :email %>
 
+      <%= f.label :date_naissance_3i, "Date de naissance :" %>
+      <%= f.date_select :date_naissance, :start_year => 1940, :order => [:day, :month, :year] %>
+
       <%= f.label :password %>
       <%= f.password_field :password %>
 
-      <%= f.label :password_confirmation, "Confirm Password" %>
+      <%= f.label :password_confirmation, "Confirmation" %>
       <%= f.password_field :password_confirmation %>
 
-      <%= f.submit "Save changes", class: "btn btn-large btn-primary" %>
+      <legend>Informations Additionnelles</legend>
+          
+        <%= f.label :nb_films, "Nombre de films moyen vus par semaine :" %>
+        <%= f.text_field :nb_films %>
+    
+      
+        <%= f.label :m_visio_films, "Moyen le plus utilisé pour regarder des films :" %>
+        <%= f.select :m_visio_films, ["Cinéma", "Télé", "Ordinateur", "Tablette"] %>
+     
+      
+        <%= f.label :nb_livres, "Nombre de livres moyen Lu par semaine :" %>
+        <%= f.text_field :nb_livres, :onchange => "lire_plus();" %>
+          
+        <p id="texte_radios" class="show" style="text-align: center;">Souhaiteriez vous lire plus de livres ?</p>
+        
+        <%= f.label :livres, "Oui", :value => "1" %>
+        <%= f.radio_button :livres, 1, :checked => false %>
+        
+        <%= f.label :livres, "Non", :value => "0" %>
+        <%= f.radio_button :livres, 0, :checked => true %>
+        
+        <%= f.label :file, "Uploadez votre cv:" %>
+        <%= f.file_field :file, :accept =>'application/pdf' %>
+
+        <br>
+        <%= f.submit "Save changes", class: "btn btn-large btn-primary" %>
     <% end %>
 
     <%= gravatar_for @user %>

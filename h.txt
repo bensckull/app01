@@ -1,0 +1,1000 @@
+ 1023  ./resTst 
+ 1024  gcc res.c  -o resTst -Wall
+ 1025  ./resTst 
+ 1026  gcc res.c  -o resTst -Wall
+ 1027  ./resTst 
+ 1028  gcc res.c  -o resTst -Wall
+ 1029  ./resTst 
+ 1030  gcc res.c  -o resTst -Wall
+ 1031  ./resTst >> txt.txt
+ 1032  cd '/home/bensckull/Bureau/Projet_Eternity/res'
+ 1033  cd '/home/bensckull/Bureau/Projet_Eternity/'
+ 1034  ls
+ 1035  ./resTst 
+ 1036  gcc res.c  -o resTst -Wall
+ 1037  ./resTst 
+ 1038  gcc res.c  -o resTst -Wall
+ 1039  ./resTst 
+ 1040  gcc res.c  -o resTst -Wall
+ 1041  ./resTst 
+ 1042  gcc res.c  -o resTst -Wall
+ 1043  ./resTst 
+ 1044  gcc res.c  -o resTst -Wall
+ 1045  ./resTst 
+ 1046  gcc res.c  -o resTst -Wall
+ 1047  ./resTst 
+ 1048  gcc res.c  -o resTst -Wall
+ 1049  ./resTst 
+ 1050  gcc res.c  -o resTst -Wall
+ 1051  ./resTst 
+ 1052  gcc res.c  -o resTst -Wall
+ 1053  ./resTst 
+ 1054  gcc res.c  -o resTst -Wall
+ 1055  ./resTst 
+ 1056  gcc res.c  -o resTst -Wall
+ 1057  ./resTst 
+ 1058  gcc res.c  -o resTst -Wall
+ 1059  ./resTst 
+ 1060  gcc res.c  -o resTst -Wall
+ 1061  ./resTst 
+ 1062  gcc res.c  -o resTst -Wall
+ 1063  ./resTst 
+ 1064  gcc res.c  -o resTst -Wall
+ 1065  ./resTst 
+ 1066  gcc res.c  -o resTst -Wall
+ 1067  ./resTst 
+ 1068  gcc res.c  -o resTst -Wall
+ 1069  ./resTst 
+ 1070  gcc res.c  -o resTst -Wall
+ 1071  ./resTst 
+ 1072  gcc res.c  -o resTst -Wall
+ 1073  ./resTst 
+ 1074  gcc res.c  -o resTst -Wall
+ 1075  ./resTst 
+ 1076  gcc res.c  -o resTst -Wall
+ 1077  gdb ./resTst 
+ 1078  gdb ./resTst core
+ 1079  gcc -g res.c  -o resTst -Wall
+ 1080  gdb ./resTst core
+ 1081  ls
+ 1082  gcc res.c  -o resTst -Wall
+ 1083  ./resTst
+ 1084  gcc res.c  -o resTst -Wall
+ 1085  ./resTst
+ 1086  gcc res.c  -o resTst -Wall
+ 1087  ./resTst
+ 1088  gcc -g res.c  -o resTst -Wall
+ 1089  gdb ./resTst core
+ 1090  gcc -g res.c  -o resTst -Wall
+ 1091  gdb ./resTst core
+ 1092  ./resTst
+ 1093  gcc -g res.c  -o resTst -Wall
+ 1094  ./resTst
+ 1095  gcc -g res.c  -o resTst -Wall
+ 1096  ./resTst
+ 1097  gcc -g res.c  -o resTst -Wall
+ 1098  ./resTst
+ 1099  gcc -g res.c  -o resTst -Wall
+ 1100  ./resTst
+ 1101  gcc -g res.c  -o resTst -Wall
+ 1102  ./resTst
+ 1103  gcc -g res.c  -o resTst -Wall
+ 1104  ./resTst
+ 1105  gcc -g res.c  -o resTst -Wall
+ 1106  ./resTst
+ 1107  gcc -g res.c  -o resTst -Wall
+ 1108  ./resTst
+ 1109  gcc -g res.c  -o resTst -Wall
+ 1110  ./resTst
+ 1111  gcc -g res.c  -o resTst -Wall
+ 1112  ./resTst
+ 1113  gcc -g res.c  -o resTst -Wall
+ 1114  ./resTst
+ 1115  gcc -g res.c  -o resTst -Wall
+ 1116  ./resTst
+ 1117  gdb ./resTst core
+ 1118  gcc -g res.c  -o resTst -Wall
+ 1119  ./resTst
+ 1120  gcc -g res.c  -o resTst -Wall
+ 1121  ./resTst
+ 1122  gcc -g res.c  -o resTst -Wall
+ 1123  ./resTst
+ 1124  gcc -g res.c  -o resTst -Wall
+ 1125  ./resTst
+ 1126  gcc -g res.c  -o resTst -Wall
+ 1127  ./resTst
+ 1128  gcc -g res.c  -o resTst -Wall
+ 1129  ./resTst
+ 1130  gcc -g res.c  -o resTst -Wall
+ 1131  ./resTst
+ 1132  gcc -g res.c  -o resTst -Wall
+ 1133  ./resTst
+ 1134  gcc -g res.c  -o resTst -Wall
+ 1135  ./resTst
+ 1136  gcc -g res.c  -o resTst -Wall
+ 1137  ./resTst
+ 1138  gcc -g res.c  -o resTst -Wall
+ 1139  ./resTst
+ 1140  gcc -g res.c  -o resTst -Wall
+ 1141  ./resTst
+ 1142  gcc -g res.c  -o resTst -Wall
+ 1143  ./resTst
+ 1144  gcc -g res.c  -o resTst -Wall
+ 1145  ./resTst
+ 1146  gcc -g res.c  -o resTst -Wall
+ 1147  ./resTst
+ 1148  gcc -g res.c  -o resTst -Wall
+ 1149  ./resTst
+ 1150  gcc -g res.c  -o resTst -Wall
+ 1151  ./resTst
+ 1152  gcc -g res.c  -o resTst -Wall
+ 1153  ./resTst
+ 1154  gcc -g res.c  -o resTst -Wall
+ 1155  ./resTst
+ 1156  gcc -g res.c  -o resTst -Wall
+ 1157  ./resTst
+ 1158  gcc -g res.c  -o resTst -Wall
+ 1159  ./resTst
+ 1160  gcc -g res.c  -o resTst -Wall
+ 1161  ./resTst
+ 1162  gcc -g res.c  -o resTst -Wall
+ 1163  ./resTst
+ 1164  gcc -g res.c  -o resTst -Wall
+ 1165  ./resTst
+ 1166  gcc -g res.c  -o resTst -Wall
+ 1167  ./resTst
+ 1168  gcc -g res.c  -o resTst -Wall
+ 1169  ./resTst
+ 1170  gcc -g res.c  -o resTst -Wall
+ 1171  ./resTst
+ 1172  gcc -g res.c  -o resTst -Wall
+ 1173  ./resTst
+ 1174  gcc -g res.c  -o resTst -Wall
+ 1175  ./resTst
+ 1176  gcc -g res.c  -o resTst -Wall
+ 1177  ./resTst
+ 1178  gcc -g res.c  -o resTst -Wall
+ 1179  ./resTst
+ 1180  gcc -g res.c  -o resTst -Wall
+ 1181  ./resTst
+ 1182  gcc -g res.c  -o resTst -Wall
+ 1183  ./resTst
+ 1184  gcc -g res.c  -o resTst -Wall
+ 1185  clear
+ 1186  gcc -g res.c  -o resTst -Wall
+ 1187  clear
+ 1188  gcc -g res.c  -o resTst -Wall
+ 1189  clear
+ 1190  gcc -g res.c  -o resTst -Wall
+ 1191  clear
+ 1192  gcc -g res.c  -o resTst -Wall
+ 1193  clear
+ 1194  gcc -g res.c  -o resTst -Wall
+ 1195  ./resTst
+ 1196  gcc -g res.c  -o resTst -Wall
+ 1197  ./resTst
+ 1198  gcc -g res.c  -o resTst -Wall
+ 1199  ./resTst
+ 1200  gcc -g res.c  -o resTst -Wall
+ 1201  ./resTst
+ 1202  gcc -g res.c  -o resTst -Wall
+ 1203  ./resTst
+ 1204  gcc -g res.c  -o resTst -Wall
+ 1205  ./resTst
+ 1206  gcc -g res.c  -o resTst -Wall
+ 1207  ./resTst
+ 1208  gcc -g res.c  -o resTst -Wall
+ 1209  ./resTst
+ 1210  gcc -g res.c  -o resTst -Wall
+ 1211  ./resTst
+ 1212  gcc -g res.c  -o resTst -Wall
+ 1213  ./resTst
+ 1214  gcc -g res.c  -o resTst -Wall
+ 1215  ./resTst
+ 1216  gcc -g res.c  -o resTst -Wall
+ 1217  ./resTst
+ 1218  gcc -g res.c  -o resTst -Wall
+ 1219  ./resTst
+ 1220  gcc -g res.c  -o resTst -Wall
+ 1221  ./resTst
+ 1222  gcc -g res.c  -o resTst -Wall
+ 1223  ./resTst
+ 1224  gcc -g res.c  -o resTst -Wall
+ 1225  ./resTst
+ 1226  gcc -g res.c  -o resTst -Wall
+ 1227  ./resTst
+ 1228  gcc -g res.c  -o resTst -Wall
+ 1229  ./resTst
+ 1230  gcc -g res.c  -o resTst -Wall
+ 1231  ./resTst
+ 1232  gcc -g res.c  -o resTst -Wall
+ 1233  ./resTst
+ 1234  gcc -g res.c  -o resTst -Wall
+ 1235  ./resTst
+ 1236  gcc -g res.c  -o resTst -Wall
+ 1237  ./resTst
+ 1238  gcc -g res.c  -o resTst -Wall
+ 1239  ./resTst
+ 1240  gcc -g res.c  -o resTst -Wall
+ 1241  ./resTst
+ 1242  gcc -g res.c  -o resTst -Wall
+ 1243  ./resTst
+ 1244  gcc -g res.c  -o resTst -Wall
+ 1245  ./resTst
+ 1246  gcc -g res.c  -o resTst -Wall
+ 1247  ./resTst
+ 1248  gcc -g res.c  -o resTst -Wall
+ 1249  ./resTst
+ 1250  gcc -g res.c  -o resTst -Wall
+ 1251  ./resTst
+ 1252  pieces_04x04.txt
+ 1253  ./resTst
+ 1254  pieces_04x04.txt
+ 1255  gcc -g res.c  -o resTst -Wall
+ 1256  ./resTst
+ 1257  gcc -g res.c  -o resTst -Wall
+ 1258  ./resTst
+ 1259  ./resTstpieces_04x04.txt
+ 1260  gcc -g res.c  -o resTst -Wall
+ 1261  ./resTstpieces_04x04.txt
+ 1262  gcc -g res.c  -o resTst -Wall
+ 1263  ./resTst
+ 1264  gcc -g res.c  -o resTst -Wall
+ 1265  ./resTst
+ 1266  gcc -g res.c  -o resTst -Wall
+ 1267  ./resTst
+ 1268  gcc -g res.c  -o resTst -Wall
+ 1269  ./resTst
+ 1270  gcc -g res.c  -o resTst -Wall
+ 1271  ./resTst
+ 1272  gcc -g res.c  -o resTst -Wall
+ 1273  ./resTst
+ 1274  gcc -g res.c  -o resTst -Wall
+ 1275  ./resTst
+ 1276  gcc -g res.c  -o resTst -Wall
+ 1277  ./resTst
+ 1278  gcc -g res.c  -o resTst -Wall
+ 1279  ./resTst
+ 1280  gcc -g res.c  -o resTst -Wall
+ 1281  ./resTst
+ 1282  gcc -g res.c  -o resTst -Wall
+ 1283  ./resTst
+ 1284  gcc -g res.c  -o resTst -Wall
+ 1285  ./resTst
+ 1286  ./resTst
+ 1287  gcc -g res.c  -o resTst -Wall
+ 1288  ./resTst
+ 1289  gcc -g res.c  -o resTst -Wall
+ 1290  ./resTst
+ 1291  gcc -g res.c  -o resTst -Wall
+ 1292  ./resTst
+ 1293  gcc -g res.c  -o resTst -Wall
+ 1294  ./resTst
+ 1295  gcc -g res.c  -o resTst -Wall
+ 1296  ./resTst
+ 1297  gcc -g res.c  -o resTst -Wall
+ 1298  ./resTst
+ 1299  gcc -g res.c  -o resTst -Wall
+ 1300  ./resTst
+ 1301  gcc -g res.c  -o resTst -Wall
+ 1302  ./resTst
+ 1303  gcc -g res.c  -o resTst -Wall
+ 1304  ./resTst
+ 1305  gcc -g res.c  -o resTst -Wall
+ 1306  ./resTst
+ 1307  gcc -g res.c  -o resTst -Wall
+ 1308  ./resTst
+ 1309  gcc -g res.c  -o resTst -Wall
+ 1310  ./resTst
+ 1311  gcc -g res.c  -o resTst -Wall
+ 1312  ./resTst
+ 1313  gcc -g res.c  -o resTst -Wall
+ 1314  ./resTst
+ 1315  gcc -g res.c  -o resTst -Wall
+ 1316  ./resTst
+ 1317  gcc -g res.c  -o resTst -Wall
+ 1318  ./resTst
+ 1319  gcc -g res.c  -o resTst -Wall
+ 1320  ./resTst
+ 1321  gcc -g res.c  -o resTst -Wall
+ 1322  ./resTst
+ 1323  gcc -g res.c  -o resTst -Wall
+ 1324  ./resTst
+ 1325  gcc -g res.c  -o resTst -Wall
+ 1326  ./resTst
+ 1327  gcc -g res.c  -o resTst -Wall
+ 1328  ./resTst
+ 1329  gcc -g res.c  -o resTst -Wall
+ 1330  ./resTst
+ 1331  gcc -g res.c  -o resTst -Wall
+ 1332  ./resTst
+ 1333  gcc -g res.c  -o resTst -Wall
+ 1334  ./resTst
+ 1335  gcc -g res.c  -o resTst -Wall
+ 1336  ./resTst
+ 1337  gcc -g res.c  -o resTst -Wall
+ 1338  ./resTst
+ 1339  gcc -g res.c  -o resTst -Wall
+ 1340  ./resTst
+ 1341  gcc -g res.c  -o resTst -Wall
+ 1342  ./resTst
+ 1343  gcc -g res.c  -o resTst -Wall
+ 1344  ./resTst
+ 1345  gcc -g res.c  -o resTst -Wall
+ 1346  ./resTst
+ 1347  gcc -g res.c  -o resTst -Wall
+ 1348  ./resTst
+ 1349  gcc -g res.c  -o resTst -Wall
+ 1350  ./resTst
+ 1351  gcc -g res.c  -o resTst -Wall
+ 1352  ./resTst
+ 1353  gcc -g res.c  -o resTst -Wall
+ 1354  ./resTst
+ 1355  gcc -g res.c  -o resTst -Wall
+ 1356  ./resTst
+ 1357  gcc -g res.c  -o resTst -Wall
+ 1358  ./resTst
+ 1359  gcc -g res.c  -o resTst -Wall
+ 1360  ./resTst
+ 1361  gcc -g res.c  -o resTst -Wall
+ 1362  ./resTst
+ 1363  gcc -g res.c  -o resTst -Wall
+ 1364  ./resTst
+ 1365  cd '/home/bensckull/Bureau/Projet_Eternity/' 
+ 1366  ls
+ 1367  gcc -g res.c  -o resTst -Wall
+ 1368  ./resTst
+ 1369  gcc -g res.c  -o resTst -Wall
+ 1370  ./resTst
+ 1371  gcc -g res.c  -o resTst -Wall
+ 1372  ./resTst
+ 1373  gcc -g res.c  -o resTst -Wall
+ 1374  ./resTst
+ 1375  cd '/home/bensckull/Bureau/Projet_Eternity' 
+ 1376  ls
+ 1377  ./resTst
+ 1378  gcc -g res.c  -o resTst -Wall
+ 1379  ./resTst
+ 1380  cd '/home/bensckull/Bureau/Projet_Eternity/' 
+ 1381  ls
+ 1382  gcc -g res.c  -o resTst -Wall
+ 1383  ./resTst
+ 1384  gcc -g res.c  -o resTst -Wall
+ 1385  ./resTst
+ 1386  gcc -g res.c  -o resTst -Wall
+ 1387  ./resTst
+ 1388  gcc -g res.c  -o resTst -Wall
+ 1389  ./resTst
+ 1390  gcc -g res.c  -o resTst -Wall
+ 1391  ./resTst
+ 1392  gcc -g res.c  -o resTst -Wall
+ 1393  ./resTst
+ 1394  gcc -g res.c  -o resTst -Wall
+ 1395  ./resTst
+ 1396  gcc -g res.c  -o resTst -Wall
+ 1397  ./resTst
+ 1398  gcc -g res.c  -o resTst -Wall
+ 1399  ./resTst
+ 1400  gcc -g res.c  -o resTst -Wall
+ 1401  cd Bureau/
+ 1402  ls
+ 1403  cd flex/Projet\ Compilation/
+ 1404  ls
+ 1405  ./script.sh 
+ 1406  ./clean.sh 
+ 1407  ./script.sh 
+ 1408  ./clean.sh 
+ 1409  ./script.sh 
+ 1410  ./clean.sh 
+ 1411  ./script.sh 
+ 1412  ./clean.sh 
+ 1413  ./script.sh 
+ 1414  ./clean.sh 
+ 1415  ./script.sh 
+ 1416  ./clean.sh 
+ 1417  ./script.sh 
+ 1418  ./clean.sh 
+ 1419  ./script.sh 
+ 1420  ./clean.sh 
+ 1421  ./script.sh 
+ 1422  ./clean.sh 
+ 1423  ./script.sh 
+ 1424  ./clean.sh 
+ 1425  ./script.sh 
+ 1426  ./clean.sh 
+ 1427  ./script.sh 
+ 1428  ./clean.sh 
+ 1429  ./script.sh 
+ 1430  ./clean.sh 
+ 1431  ./script.sh 
+ 1432  c cd '/home/bensckull/Bureau/optimisation combinatoire/tp/' 
+ 1433  ls
+ 1434  cd '/home/bensckull/Bureau/optimisation combinatoire/tp' 
+ 1435  ls
+ 1436  ./tspTst 
+ 1437  clear
+ 1438  ls
+ 1439  gcc tsp.c -lm -o tspTst -Wall
+ 1440  ./tspTst 
+ 1441  gcc tsp.c -lm -o tspTst -Wall
+ 1442  ./tspTst 
+ 1443  gcc tsp.c -lm -o tspTst -Wall
+ 1444  ./tspTst 
+ 1445  gcc tsp.c -lm -o tspTst -Wall
+ 1446  ./tspTst 
+ 1447  gcc tsp.c -lm -o tspTst -Wall
+ 1448  ./tspTst 
+ 1449  gcc tsp.c -lm -o tspTst -Wall
+ 1450  ./tspTst 
+ 1451  gcc tsp.c -lm -o tspTst -Wall
+ 1452  ./tspTst 
+ 1453  cd '/home/bensckull/Bureau/optimisation combinatoire/tp' 
+ 1454  ls
+ 1455  gcc tsp.c -lm -o tspTst -Wall
+ 1456  cd '/home/bensckull/Bureau/optimisation combinatoire/tp' 
+ 1457  ls
+ 1458  gcc tsp.c -lm -o tspTst -Wall
+ 1459  ./tspTst 
+ 1460  gcc tsp.c -lm -o tspTst -Wall
+ 1461  ./tspTst 
+ 1462  gcc tsp.c -lm -o tspTst -Wall
+ 1463  ./tspTst 
+ 1464  gcc tsp.c -lm -o tspTst -Wall
+ 1465  ./tspTst 
+ 1466  gcc tsp.c -lm -o tspTst -Wall
+ 1467  ./tspTst 
+ 1468  gcc tsp.c -lm -o tspTst -Wall
+ 1469  ./tspTst 
+ 1470  gcc tsp.c -lm -o tspTst -Wall
+ 1471  ./tspTst 
+ 1472  gcc tsp.c -lm -o tspTst -Wall
+ 1473  ./tspTst 
+ 1474  gcc tsp.c -lm -o tspTst -Wall
+ 1475  ./tspTst 
+ 1476  gcc tsp.c -lm -o tspTst -Wall
+ 1477  ./tspTst 
+ 1478  gcc tsp.c -lm -o tspTst -Wall
+ 1479  ./tspTst 
+ 1480  gcc tsp.c -lm -o tspTst -Wall
+ 1481  ./tspTst 
+ 1482  gcc tsp.c -lm -o tspTst -Wall
+ 1483  ./tspTst 
+ 1484  gcc tsp.c -lm -o tspTst -Wall
+ 1485  ./tspTst 
+ 1486  gcc tsp.c -lm -o tspTst -Wall
+ 1487  ./tspTst 
+ 1488  gcc tsp.c -lm -o tspTst -Wall
+ 1489  ./tspTst 
+ 1490  gcc tsp.c -lm -o tspTst -Wall
+ 1491  ./tspTst 
+ 1492  gcc tsp.c -lm -o tspTst -Wall
+ 1493  ./tspTst 
+ 1494  gcc tsp.c -lm -o tspTst -Wall
+ 1495  ./tspTst 
+ 1496  gcc tsp.c -lm -o tspTst -Wall
+ 1497  ./tspTst 
+ 1498  gcc tsp.c -lm -o tspTst -Wall
+ 1499  ./tspTst 
+ 1500  gcc tsp.c -lm -o tspTst -Wall
+ 1501  ./tspTst 
+ 1502  gcc tsp.c -lm -o tspTst -Wall
+ 1503  ./tspTst 
+ 1504  gcc tsp.c -lm -o tspTst -Wall
+ 1505  ./tspTst 
+ 1506  gcc tsp.c -lm -o tspTst -Wall
+ 1507  ./tspTst 
+ 1508  gcc tsp.c -lm -o tspTst -Wall
+ 1509  ./tspTst 
+ 1510  gcc tsp.c -lm -o tspTst -Wall
+ 1511  ./tspTst 
+ 1512  gcc tsp.c -lm -o tspTst -Wall
+ 1513  ./tspTst 
+ 1514  gcc tsp.c -lm -o tspTst -Wall
+ 1515  ./tspTst 
+ 1516  gcc tsp.c -lm -o tspTst -Wall
+ 1517  ./tspTst 
+ 1518  gcc tsp.c -lm -o tspTst -Wall
+ 1519  ./tspTst 
+ 1520  gcc tsp.c -lm -o tspTst -Wall
+ 1521  ./tspTst 
+ 1522  gcc tsp.c -lm -o tspTst -Wall
+ 1523  ./tspTst 
+ 1524  gcc tsp.c -lm -o tspTst -Wall
+ 1525  ./tspTst 
+ 1526  gcc tsp.c -lm -o tspTst -Wall
+ 1527  ./tspTst 
+ 1528  gcc tsp.c -lm -o tspTst -Wall
+ 1529  ./tspTst 
+ 1530  gcc tsp.c -lm -o tspTst -Wall
+ 1531  ./tspTst 
+ 1532  gcc tsp.c -lm -o tspTst -Wall
+ 1533  ./tspTst 
+ 1534  gcc tsp.c -lm -o tspTst -Wall
+ 1535  ./tspTst 
+ 1536  gcc tsp.c -lm -o tspTst -Wall
+ 1537  ./tspTst 
+ 1538  gcc tsp.c -lm -o tspTst -Wall
+ 1539  ./tspTst 
+ 1540  gcc tsp.c -lm -o tspTst -Wall
+ 1541  ./tspTst 
+ 1542  gcc tsp.c -lm -o tspTst -Wall
+ 1543  ./tspTst 
+ 1544  gcc tsp.c -lm -o tspTst -Wall
+ 1545  ./tspTst 
+ 1546  gcc tsp.c -lm -o tspTst -Wall
+ 1547  ./tspTst 
+ 1548  gcc tsp.c -lm -o tspTst -Wall
+ 1549  ./tspTst 
+ 1550  gcc tsp.c -lm -o tspTst -Wall
+ 1551  ./tspTst 
+ 1552  gcc tsp.c -lm -o tspTst -Wall
+ 1553  ./tspTst 
+ 1554  gcc tsp.c -lm -o tspTst -Wall
+ 1555  ./tspTst 
+ 1556  gcc tsp.c -lm -o tspTst -Wall
+ 1557  ./tspTst 
+ 1558  gcc tsp.c -lm -o tspTst -Wall
+ 1559  ./tspTst 
+ 1560  gcc tsp.c -lm -o tspTst -Wall
+ 1561  ./tspTst 
+ 1562  gcc tsp.c -lm -o tspTst -Wall
+ 1563  ./tspTst 
+ 1564  gcc tsp.c -lm -o tspTst -Wall
+ 1565  ./tspTst 
+ 1566  gcc tsp.c -lm -o tspTst -Wall
+ 1567  ./tspTst 
+ 1568  gcc tsp.c -lm -o tspTst -Wall
+ 1569  ./tspTst 
+ 1570  gcc tsp.c -lm -o tspTst -Wall
+ 1571  ./tspTst 
+ 1572  gcc tsp.c -lm -o tspTst -Wall
+ 1573  ./tspTst 
+ 1574  gcc tsp.c -lm -o tspTst -Wall
+ 1575  ./tspTst 
+ 1576  gcc tsp.c -lm -o tspTst -Wall
+ 1577  ./tspTst 
+ 1578  gcc tsp.c -lm -o tspTst -Wall
+ 1579  ./tspTst 
+ 1580  gcc tsp.c -lm -o tspTst -Wall
+ 1581  ./tspTst 
+ 1582  gcc tsp.c -lm -o tspTst -Wall
+ 1583  ./tspTst 
+ 1584  cd '/home/bensckull/Bureau/optimisation combinatoire/LEBOT_Corentin' 
+ 1585  ls
+ 1586  gcc tsp.c -lm -o tspTst -Wall
+ 1587  ./tspTst 
+ 1588  gcc tsp.c -lm -o tspTst -Wall
+ 1589  ./tspTst 
+ 1590  gcc tsp.c -lm -o tspTst -Wall
+ 1591  ./tspTst 
+ 1592  gcc tsp.c -lm -o tspTst -Wall
+ 1593  ./tspTst 
+ 1594  gcc tsp.c -lm -o tspTst -Wall
+ 1595  ./tspTst 
+ 1596  gcc tsp.c -lm -o tspTst -Wall
+ 1597  ./tspTst 
+ 1598  gcc tsp.c -lm -o tspTst -Wall
+ 1599  ./tspTst 
+ 1600  gcc tsp.c -lm -o tspTst -Wall
+ 1601  ./tspTst 
+ 1602  gcc tsp.c -lm -o tspTst -Wall
+ 1603  ./tspTst 
+ 1604  gcc tsp.c -lm -o tspTst -Wall
+ 1605  ./tspTst 
+ 1606  gcc tsp.c -lm -o tspTst -Wall
+ 1607  ./tspTst 
+ 1608  gcc tsp.c -lm -o tspTst -Wall
+ 1609  ./tspTst 
+ 1610  gcc tsp.c -lm -o tspTst -Wall
+ 1611  ./tspTst 
+ 1612  gcc tsp.c -lm -o tspTst -Wall
+ 1613  ./tspTst 
+ 1614  gcc tsp.c -lm -o tspTst -Wall
+ 1615  ./tspTst 
+ 1616  gcc tsp.c -lm -o tspTst -Wall
+ 1617  ./tspTst 
+ 1618  gcc tsp.c -lm -o tspTst -Wall
+ 1619  ./tspTst 
+ 1620  gcc tsp.c -lm -o tspTst -Wall
+ 1621  ./tspTst 
+ 1622  gcc tsp.c -lm -o tspTst -Wall
+ 1623  ./tspTst 
+ 1624  gcc tsp.c -lm -o tspTst -Wall
+ 1625  ./tspTst 
+ 1626  gcc tsp.c -lm -o tspTst -Wall
+ 1627  ./tspTst 
+ 1628  gcc tsp.c -lm -o tspTst -Wall
+ 1629  ./tspTst 
+ 1630  cd Bureau/tstgh/
+ 1631  ls
+ 1632  python tst01.py 
+ 1633  python tst02.py 
+ 1634  python
+ 1635  pulseaudio-equalizer-gtk
+ 1636  cd '/home/bensckull/Bureau/flex/Projet Compilation/' 
+ 1637  ./clean.sh
+ 1638  ls
+ 1639  ./script.sh 
+ 1640  ./clean.sh
+ 1641  ./script.sh 
+ 1642  ./clean.sh
+ 1643  ./script.sh 
+ 1644  ./clean.sh
+ 1645  ./script.sh 
+ 1646  ./clean.sh
+ 1647  ./script.sh 
+ 1648  ./clean.sh
+ 1649  ./script.sh 
+ 1650  ./clean.sh
+ 1651  ./script.sh 
+ 1652  ./clean.sh
+ 1653  ./script.sh 
+ 1654  ./clean.sh
+ 1655  ./script.sh 
+ 1656  ./clean.sh
+ 1657  ./script.sh 
+ 1658  ./clean.sh
+ 1659  ./script.sh 
+ 1660  ./clean.sh
+ 1661  ./script.sh 
+ 1662  ./clean.sh
+ 1663  ./script.sh 
+ 1664  ./clean.sh
+ 1665  ./script.sh 
+ 1666  ./clean.sh
+ 1667  ./script.sh 
+ 1668  ./clean.sh
+ 1669  ./script.sh 
+ 1670  ./clean.sh
+ 1671  ./script.sh 
+ 1672  ./clean.sh
+ 1673  ./script.sh 
+ 1674  ./clean.sh
+ 1675  ./script.sh 
+ 1676  ./clean.sh
+ 1677  ./script.sh 
+ 1678  ./clean.sh
+ 1679  ./script.sh 
+ 1680  ./clean.sh
+ 1681  ./script.sh 
+ 1682  ./clean.sh
+ 1683  ./script.sh 
+ 1684  ./clean.sh
+ 1685  ./script.sh 
+ 1686  ./clean.sh
+ 1687  ./script.sh 
+ 1688  ./clean.sh
+ 1689  ./script.sh 
+ 1690  ./clean.sh
+ 1691  ./script.sh 
+ 1692  ./clean.sh
+ 1693  ./script.sh 
+ 1694  ./clean.sh
+ 1695  ./script.sh 
+ 1696  ./clean.sh
+ 1697  ./script.sh 
+ 1698  ./clean.sh
+ 1699  ./script.sh 
+ 1700  ./clean.sh
+ 1701  ./script.sh 
+ 1702  ./clean.sh
+ 1703  ./script.sh 
+ 1704  ./clean.sh
+ 1705  ./script.sh 
+ 1706  ./clean.sh
+ 1707  ./script.sh 
+ 1708  ./clean.sh
+ 1709  ./script.sh 
+ 1710  ./clean.sh
+ 1711  ./script.sh 
+ 1712  ./clean.sh
+ 1713  ./script.sh 
+ 1714  ./clean.sh
+ 1715  ./script.sh 
+ 1716  pulseaudio-equalizer-gtk
+ 1717  cd '/home/bensckull/Bureau/dev opti/' 
+ 1718  glpsol -m exo1.mod --output out1.txt
+ 1719  pulseaudio-equalizer-gtk
+ 1720  cd '/home/bensckull/Bureau/flex/Projet Compilation/' 
+ 1721  ./clean.sh
+ 1722  ./script.sh 
+ 1723  ./clean.sh
+ 1724  ./script.sh 
+ 1725  ./clean.sh
+ 1726  ./script.sh 
+ 1727  ./clean.sh
+ 1728  ./script.sh 
+ 1729  ./clean.sh
+ 1730  ./script.sh 
+ 1731  ./clean.sh
+ 1732  ./script.sh 
+ 1733  ./clean.sh
+ 1734  ./script.sh 
+ 1735  ./clean.sh
+ 1736  ./script.sh 
+ 1737  ./clean.sh
+ 1738  ./script.sh 
+ 1739  ./clean.sh
+ 1740  ./script.sh 
+ 1741  ./clean.sh
+ 1742  ./script.sh 
+ 1743  ./clean.sh
+ 1744  ./script.sh 
+ 1745  ./clean.sh
+ 1746  ./script.sh 
+ 1747  ./clean.sh
+ 1748  ./script.sh 
+ 1749  ./clean.sh
+ 1750  ./script.sh 
+ 1751  ./clean.sh
+ 1752  ./script.sh 
+ 1753  ./clean.sh
+ 1754  ./script.sh 
+ 1755  ./clean.sh
+ 1756  ./script.sh 
+ 1757  ./clean.sh
+ 1758  ./script.sh 
+ 1759  ./clean.sh
+ 1760  ./script.sh 
+ 1761  ./clean.sh
+ 1762  ./script.sh 
+ 1763  ./clean.sh
+ 1764  ./script.sh 
+ 1765  ./clean.sh
+ 1766  ./script.sh 
+ 1767  ./clean.sh
+ 1768  ./script.sh 
+ 1769  ./clean.sh
+ 1770  ./script.sh 
+ 1771  ./clean.sh
+ 1772  ./script.sh 
+ 1773  ./clean.sh
+ 1774  ./script.sh 
+ 1775  ./clean.sh
+ 1776  ./script.sh 
+ 1777  ./clean.sh
+ 1778  ./script.sh 
+ 1779  ./clean.sh
+ 1780  ./script.sh 
+ 1781  ./clean.sh
+ 1782  ./script.sh 
+ 1783  ./clean.sh
+ 1784  ./script.sh 
+ 1785  ./clean.sh
+ 1786  ./script.sh 
+ 1787  ./clean.sh
+ 1788  ./script.sh 
+ 1789  ./script.sh >>comp.txt
+ 1790  ./script.sh 
+ 1791  ./script.sh >>comp.txt
+ 1792  cd '/home/bensckull/Bureau/flex/Projet Compilation/' 
+ 1793  ./script.sh
+ 1794  cd '/home/bensckull/Bureau/flex/Projet Compilation/' 
+ 1795  ./script.sh
+ 1796  cd '/home/bensckull/Bureau/flex/Projet Compilation/' 
+ 1797  ./script.sh
+ 1798  cd '/home/bensckull/Bureau/flex/Projet Compilation/' 
+ 1799  ls
+ 1800  ./clean
+ 1801  ./clean.sh
+ 1802  ls
+ 1803  cd Bureau/
+ 1804  ls
+ 1805  mkdir ProjRAILS
+ 1806  de ProjRAILS/
+ 1807  ls
+ 1808  cd ProjRAILS/
+ 1809  ls
+ 1810  mkdir app01
+ 1811  cd app01/
+ 1812  ls
+ 1813  rails new app01
+ 1814  bundle install
+ 1815  cd ..
+ 1816  ls
+ 1817  cd app01/
+ 1818  ls
+ 1819  cd app01/
+ 1820  ls
+ 1821  bundle install
+ 1822  bundle update
+ 1823  rails server
+ 1824  rails s
+ 1825  git config --global user.name "bensckull"
+ 1826  git config --global user.email bensckull@gmail.com
+ 1827  git config --global alias.co checkout
+ 1828  git config --global core.editor "subl -w"
+ 1829  git init
+ 1830  gedit .gitignore 
+ 1831  git add .
+ 1832  git status
+ 1833  git commit -m "init rep"
+ 1834  git log
+ 1835  ls app/controllers/
+ 1836  git remote add origin https://github.com/bensckull/app01.git
+ 1837  git push -u origin master
+ 1838  rails generate scaffold User name:string email:string
+ 1839  bundle exec rake db:migrate
+ 1840  rails generate scaffold Micropost content:string user_id:integer
+ 1841  bundle exec rake db:migrate
+ 1842  cd ..
+ 1843  ls
+ 1844  cd ..
+ 1845  ls
+ 1846  mkdir projTst
+ 1847  cd projTst/
+ 1848  rails new web_app --skip-test-unit
+ 1849  cd web_app/
+ 1850  $ bundle install --without production
+ 1851  bundle install --without production
+ 1852  bundle update
+ 1853  rails generate rspec:install
+ 1854  curl -sL https://deb.nodesource.com/setup_4.x | sudo bash -
+ 1855  sudo apt-get install nodejs
+ 1856  rails generate rspec:install
+ 1857  git init
+ 1858  git add .
+ 1859  git commit -m "premier commit"
+ 1860  git remote add origin https://github.com/bensckull/app01.git
+ 1861  git push -u origin master
+ 1862  git checkout -b static-pages
+ 1863  rails generate controller static_pages ...
+ 1864  rails destroy controller static_pages ...
+ 1865  git status
+ 1866  git reset --hard HEAD
+ 1867  ls
+ 1868  git status
+ 1869  rails generate controller StaticPages home help --no-test-framework
+ 1870  git add .
+ 1871  git commit -m "Add a StaticPages controller"
+ 1872  rails generate integration_test static_pages
+ 1873  bundle exec rspec spec/requests/static_pages_spec.rb
+ 1874  mv app/views/layouts/application.html.erb foobar
+ 1875  bundle exec rspec spec/requests/static_pages_spec.rb
+ 1876  mv foobar app/views/layouts/application.html.erb
+ 1877  bundle exec rspec spec/requests/static_pages_spec.rb
+ 1878  git add .
+ 1879  git commit -m "fin pages statiques"
+ 1880  git checkout master
+ 1881  git merge static-pages
+ 1882  git push
+ 1883  bundle exec rspec spec/requests/static_pages_spec.rb
+ 1884  git add .
+ 1885  git commit -m "Add a full_title helper"
+ 1886  git push
+ 1887  git checkout -b filling-in-layout
+ 1888  bundle install
+ 1889  bundle exec rspec spec/requests/static_pages_spec.rb
+ 1890  rails generate controller Users new --no-test-framework
+ 1891  rails generate integration_test user_pages
+ 1892  bundle exec rspec spec/requests/user_pages_spec.rb
+ 1893  bundle exec rspec spec/
+ 1894  git add .
+ 1895  git commit -m "fin layout et routage"
+ 1896  git checkout master
+ 1897  git status
+ 1898  git merge filling-in-layout
+ 1899  rails r
+ 1900  rails server
+ 1901  pulseaudio
+ 1902  pulseaudio-equalizer-gtk
+ 1903  ld
+ 1904  ls
+ 1905  cd Bureau/
+ 1906  ls
+ 1907  cd '/home/bensckull/Bureau/ProjRAILS/projTst' 
+ 1908  ls
+ 1909  cd web_app/
+ 1910  ls
+ 1911  git checkout master
+ 1912  git push
+ 1913  git checkout -b modeling-users
+ 1914  rails generate model User name:string email:string
+ 1915  bundle exec rake db:migrate
+ 1916  bundle exec rake test:prepare
+ 1917  bundle exec rspec spec/models/user_spec.rb
+ 1918  bundle exec rspec spec/
+ 1919  bundle exec rspec spec/models/user_spec.rb
+ 1920* rails generate migration add_date_naiss_to_user
+ 1921  bundle exec rake db:migrate
+ 1922  bundle install
+ 1923  rails generate migration add_password_digest_to_users password_digest:string
+ 1924  bundle exec rake db:migrate
+ 1925  bundle exec rake test:prepare
+ 1926  bundle exec rspec spec/
+ 1927  git add .
+ 1928  git commit -m "Make a basic User model (including secure passwords)"
+ 1929  git checkout master
+ 1930  git merge modeling-users
+ 1931  git checkout master
+ 1932  git push
+ 1933  git checkout -b sign-up
+ 1934  rails console
+ 1935  bundle install
+ 1936  bundle exec rspec spec/
+ 1937  rails console
+ 1938  bundle exec rake db:reset
+ 1939  bundle exec rake test:prepare
+ 1940  bundle exec rake db:reset
+ 1941  rails console
+ 1942  bundle exec rspec spec/
+ 1943  bundle exec rake db:reset
+ 1944  bundle exec rake test:prepare
+ 1945  bundle exec rspec spec/
+ 1946  bundle exec rspec spec/requests/user_pages_spec.rb -e "signup page"
+ 1947  bundle exec rspec spec/requests/user_pages_spec.rb \-e "signup with invalid information"
+ 1948  bundle exec rspec spec/requests/user_pages_spec.rb -e "signup with invalid information"
+ 1949  bundle exec rspec spec/requests/user_pages_spec.rb -e "signup with invalid information"
+ 1950  bundle exec rspec spec/requests/user_pages_spec.rb -e "signup with invalid information"
+ 1951  bundle exec rspec spec/
+ 1952  rails console
+ 1953  bundle exec rake db:reset
+ 1954  bundle exec rake test:prepare
+ 1955  git add .
+ 1956  git commit -m "Fin inscription utilisateur"
+ 1957  git checkout master
+ 1958  git merge sign-up
+ 1959  rails server
+ 1960  cd '/home/bensckull/Bureau/ProjRAILS/projTst/web_app' 
+ 1961  ls
+ 1962  git checkout -b sign-in-out
+ 1963  rails generate controller Sessions --no-test-framework
+ 1964  rails generate integration_test authentication_pages
+ 1965  bundle exec rspec spec/
+ 1966  rake routes
+ 1967  bundle exec rspec spec/
+ 1968  bundle exec rspec spec/requests/authentication_pages_spec.rb -e "signin with invalid information"
+ 1969  bundle exec rspec spec/requests/authentication_pages_spec.rb -e "signin with invalid information"
+ 1970  rails generate migration add_remember_token_to_users
+ 1971  bundle exec rake db:migrate
+ 1972  bundle exec rake test:prepare
+ 1973  bundle exec rspec spec/models/user_spec.rb
+ 1974  bundle exec rake test:prepare
+ 1975  bundle exec rspec spec/models/user_spec.rb
+ 1976  bundle exec rake db:migrate
+ 1977  bundle exec rake test:prepare
+ 1978  bundle exec rspec spec/models/user_spec.rb
+ 1979  bundle exec rake db:migratebin/rails db:rollback
+ 1980  bundle exec rake db:migrate
+ 1981  bundle exec rake test:prepare
+ 1982  bundle exec rspec spec/models/user_spec.rb
+ 1983  bundle exec rake db:migrate
+ 1984  bundle exec rake test:prepare
+ 1985  bundle exec rspec spec/models/user_spec.rb
+ 1986  bundle exec rspec spec/requests/authentication_pages_spec.rb -e "signin with invalid information"
+ 1987  rails generate migration add_remember_token_to_users
+ 1988  bundle exec rake db:migrate
+ 1989  bundle exec rake test:prepare
+ 1990  bundle exec rspec spec/models/user_spec.rb
+ 1991  bundle exec rspec spec/
+ 1992  git add .
+ 1993  git commit -m "Finish sign in"
+ 1994  git checkout master
+ 1995  git merge sign-in-out
+ 1996  git push
+ 1997  raisl s
+ 1998  rails s
+ 1999  cd '/home/bensckull/Bureau/ProjRAILS/projTst/web_app' 
+ 2000  git checkout -b updating-users
+ 2001  bundle exec rspec spec/requests/user_pages_spec.rb -e "edit page"
+ 2002  bundle exec rspec spec/
+ 2003  bundle exec rspec spec/requests/user_pages_spec.rb -e "edit page"
+ 2004  bundle exec rspec spec/
+ 2005  git add .
+ 2006  git commit -m "Finish user edit, update"
+ 2007  git checkout master
+ 2008  git status
+ 2009  git branch
+ 2010  git merge updating-users
+ 2011  git checkout -b en-fr
+ 2012  bundle exec rspec spec/
+ 2013  it reset --hard
+ 2014  git reset --hard
+ 2015  git checkout origin/master 
+ 2016  git branch
+ 2017  git branch -d en-fr
+ 2018  git branch -D en-fr
+ 2019  git branch
+ 2020  git checkout -b user-avance
+ 2021  history
+ 2022  history >> h.txt

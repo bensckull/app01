@@ -1,0 +1,16 @@
+<% provide(:title, 'Stats') %>
+
+<h1>Statistiques des profils qui aimeraient/n'aimeraient pas lire plus</h1>
+
+<div id="img_centred">
+	<img alt="stats" src="http://forge.info.univ-angers.fr/~gh/jphistopct.php?vdata=<%= @nb_true %>_<%= @nb_users-@nb_true %>&#38;xmrks=Plus de livres _moins de livres&#38;titr=Utilisateurs souhaitant lire :" />
+</div>
+
+<div id="cadre_centred">
+	<% if(@nb_users != 0) %>
+		<p>Pourcentage d'utilisateurs souhaitant lire d'avantage de livres:
+		<%= (@nb_true*100)/@nb_users %>%</p>
+		<p>Pourcentage d'utilisateurs ne souhaitant pas lire plus de livres ou en lisant déja plus de 5:
+		<%= ((@nb_users-@nb_true)*100)/@nb_users %>%</p>
+	<% end %>
+</div>
